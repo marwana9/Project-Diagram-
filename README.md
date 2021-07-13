@@ -1,1 +1,1 @@
-# Project-Diagram-
+Evaluation devices are located in the places where we need the customer’s opinion, and to make this easier, we are working on making an reception robot. Attached are three Diagrams describing the reception robot project
